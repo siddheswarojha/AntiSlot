@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Anti Slot</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="UserName">User name</string>
+    <string name="Name">Name</string>
+    <string name="SignUp">SignUP</string>
+    <string name="start">Start</string>
+    <string name="End">End</string>
+    <string name="set_time">set time</string>
+</resources>
