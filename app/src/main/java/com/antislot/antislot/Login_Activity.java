@@ -36,6 +36,6 @@ public class Login_Activity extends AppCompatActivity {
     }
 
     private void loginUser(String email, String password) {
-        Toast.makeText(this, "sucessful",Toast.LENGTH_LONG).show();
+        Toast.makeText(this, "successful",Toast.LENGTH_LONG).show();
     }
 }

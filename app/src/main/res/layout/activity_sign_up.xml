@@ -16,8 +16,6 @@
         android:layout_marginRight="15dp"
         android:textColorHint="@color/purple_700"
         app:boxBackgroundMode="none"
-
-
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.448"
@@ -104,8 +102,6 @@
             android:layout_alignParentBottom="true"
             android:background="@drawable/shapebg"
             android:textColor="@color/black"
-
-
             android:hint="@string/UserName"
             android:inputType="textPassword"
             />
@@ -143,8 +139,6 @@
             android:background="@drawable/shapebg"
             android:drawableStart="@drawable/ic_baseline_password"
             android:hint="@string/password"
-
-
             android:inputType="textPassword"
             android:textColor="@color/black" />
 
